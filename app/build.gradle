@@ -24,9 +24,7 @@ android {
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-    implementation ('me.wiman.sdk:WimanWiFiSDK:1.1.8'){
-
-    }
+    implementation 'me.wiman.sdk:WimanWiFiSDK:1.1.8'
     implementation 'com.android.support:design:27.0.1'
 
     implementation 'com.android.support.constraint:constraint-layout:1.0.2'
