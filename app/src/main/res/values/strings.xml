@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">SDK - Free WiFi</string>
+
+    <string name="success">success.</string>
+    <string name="error">error.</string>
+    <string name="cancel">Cancel</string>
+
+
+    <string name="Threshold_Reached_time">Disconnected, reached the maximum time available.</string>
+    <string name="Threshold_Reached_byte">Disconnected, reached the maximum data traffic available.</string>
+
+    <string name="Threshold_Percentage_Reached_time">Warning, exceeded 70% of the available time.</string>
+    <string name="Threshold_Percentage_Reached_byte">Warning, exceeded 70% of the available data traffic.</string>
+
+    <string name="Disconnected_from">Disconnected from</string>
+    <string name="Connected_to">Connected!</string>
+    <string name="WiFi">WiFi</string>
+
+    <string name="autoconnect_description">AutoConnect is the background service which will handle the automatic
+        connection with your wifi collection
+    </string>
+    <string name="prefs">Settings</string>
+    <string name="connected">Connected</string>
+    <string name="blaclist">Blacklist</string>
+    <string name="favorite">Favs</string>
+    <string name="events">Events</string>
+
+    <string-array name="level_log">
+        <item>INFO</item>
+        <item>DEBUG</item>
+    </string-array>
+
+
+
+</resources>
